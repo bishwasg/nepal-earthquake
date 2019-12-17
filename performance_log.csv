@@ -1,0 +1,4 @@
+,Classifier,Parameter,F1_Score
+0,RandomForestClassifier,"{'randomforestclassifier__min_samples_leaf': 2, 'randomforestclassifier__min_samples_split': 2, 'randomforestclassifier__n_estimators': 50}",0.7149764015195119
+0,LogisticRegression,{'logisticregression__C': 1},0.4723533248916005
+0,GradientBoostingClassifier,"{'gradientboostingclassifier__learning_rate': 0.1, 'gradientboostingclassifier__loss': 'deviance', 'gradientboostingclassifier__min_samples_leaf': 2, 'gradientboostingclassifier__min_samples_split': 2, 'gradientboostingclassifier__n_estimators': 20}",0.5929549902152642
